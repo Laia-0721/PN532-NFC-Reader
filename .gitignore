@@ -1,0 +1,70 @@
+# Visual Studio 编译文件
+.vs/
+.vscode/
+*.vcxproj
+*.vcxproj.filters
+*.vcxproj.user
+*.sln
+*.suo
+*.sdf
+ipch/
+*.aps
+*.ncb
+*.opendb
+*.opensdf
+*.sdf
+*.db
+*.cachefile
+
+# 编译输出
+build/
+Debug/
+Release/
+x64/
+x86/
+*.exe
+*.dll
+*.lib
+*.pdb
+*.ilk
+*.obj
+*.o
+*.iobj
+*.ipdb
+
+# CMake
+CMakeCache.txt
+CMakeFiles/
+cmake_install.cmake
+Makefile
+install_manifest.txt
+compile_commands.json
+
+# 日志和备份
+*.log
+*.txt
+nfc_*.log
+backup_*.txt
+
+# 用户文件
+*.user
+*.userosscache
+*.sln.docstates
+
+# 备份文件
+*.bak
+*.tmp
+*.swp
+*~
+
+# 系统文件
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.idea/
+*.iml
+
+# 驱动安装包（不上传到GitHub）
+CH341SER.EXE
