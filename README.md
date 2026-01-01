@@ -1,8 +1,10 @@
 # PN532 NFC读写器 - Windows版
 
-![License](https://img.shields.io/badge/license-MIT-blue)
-![Windows](https://img.shields.io/badge/platform-Windows-blue)
+![GitHub License](https://img.shields.io/github/license/Laia-0721/PN532-NFC-Reader)
+![GitHub Release](https://img.shields.io/github/v/release/Laia-0721/PN532-NFC-Reader)
+![Platform](https://img.shields.io/badge/platform-Windows-blue)
 ![C++](https://img.shields.io/badge/language-C++-green)
+![GitHub Stars](https://img.shields.io/github/stars/Laia-0721/PN532-NFC-Reader)
 
 一个功能强大的PN532 NFC读卡器Windows控制台应用程序，支持多种卡片操作。
 
